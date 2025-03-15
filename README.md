@@ -33,27 +33,27 @@ This is a **MERN Stack** project that provides an **Admin Dashboard** for managi
 ### Backend
 
 1. Clone the repository:
-   git clone <repo-url>
-   cd <repo-name>
+   - git clone <repo-url>
+   - cd <repo-name>
 
 2. Install dependencies:
-npm install
+- npm install
 
 3. Start the backend server:
-npm start
+- npm start
 
 ### Frontend
 1. Navigate to the frontend folder:
-cd client
+- cd client
 
 2. Install frontend dependencies:
-npm install
+- npm install
 
 3. Start the frontend server:
-npm start
+- npm start
 
 ### configure a .env file in the backend folder with the following variables:
-MONGO_URI=<your-mongodb-uri>
-GOOGLE_CLIENT_ID=<your-google-client-id>
-GOOGLE_CLIENT_SECRET=<your-google-client-secret>
-JWT_SECRET=<your-session-secret>
+- MONGO_URI=<your-mongodb-uri>
+- GOOGLE_CLIENT_ID=<your-google-client-id>
+- GOOGLE_CLIENT_SECRET=<your-google-client-secret>
+- JWT_SECRET=<your-session-secret>
