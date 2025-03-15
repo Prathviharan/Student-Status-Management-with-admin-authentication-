@@ -1,6 +1,4 @@
-# Student-Status-Management-with-admin-authentication-
-
-# Admin Dashboard - Student Management System
+# Student-Status-Management-with-admin-authentication
 
 This is a **MERN Stack** project that provides an **Admin Dashboard** for managing students. The admin can perform CRUD operations on students, including adding, viewing, editing, and deleting student details. The application also allows admin authentication via **Google Authentication** and **username/password**.
 
