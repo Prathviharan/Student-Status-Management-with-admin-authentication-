@@ -39,6 +39,12 @@ This is a **MERN Stack** project that provides an **Admin Dashboard** for managi
 
 3. Start the backend server:
 - npm start
+  
+4. configure a .env file in the backend folder with the following variables:
+- MONGO_URI=<your-mongodb-uri>
+- GOOGLE_CLIENT_ID=<your-google-client-id>
+- GOOGLE_CLIENT_SECRET=<your-google-client-secret>
+- JWT_SECRET=<your-session-secret>
 
 ### Frontend
 1. Navigate to the frontend folder:
@@ -50,8 +56,5 @@ This is a **MERN Stack** project that provides an **Admin Dashboard** for managi
 3. Start the frontend server:
 - npm start
 
-### configure a .env file in the backend folder with the following variables:
-- MONGO_URI=<your-mongodb-uri>
-- GOOGLE_CLIENT_ID=<your-google-client-id>
-- GOOGLE_CLIENT_SECRET=<your-google-client-secret>
-- JWT_SECRET=<your-session-secret>
+### configure a .env file in the frontend folder with the following variables:
+- FRONTEND_GOOGLE_CLIENT_ID=<your-google-client-id>
